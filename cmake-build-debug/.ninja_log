@@ -1,0 +1,22 @@
+# ninja log v5
+18	256	7250472234776848	CMakeFiles/TP.dir/src/Aparelhos/Aparelho.cpp.obj	fc9d669cb38f8762
+13	272	7250472234726809	CMakeFiles/TP.dir/src/Processadores/Regra.cpp.obj	41519568387d120b
+3	327	7250473270005697	TP.exe	c82632eec94feeda
+264	697	7250472239516810	CMakeFiles/TP.dir/src/Zonas/Zona.cpp.obj	eea9c44f94f07d0e
+24	606	7245458926676487	CMakeFiles/TP.dir/src/Processadores/ProcessadorRegras.cpp.obj	8f8e673ed2b49106
+27	264	7250472234806809	CMakeFiles/TP.dir/src/Sensores/FumoSensor.cpp.obj	d0e714065520bbe8
+31	250	7250472234756833	CMakeFiles/TP.dir/src/Sensores/HumidadeSensor.cpp.obj	ca056e1fd9eea3af
+22	271	7250472234866821	CMakeFiles/TP.dir/src/Sensores/MovimentoSensor.cpp.obj	f633f439e0d7299
+37	229	7250472234726809	CMakeFiles/TP.dir/src/Sensores/LuminosidadeSensor.cpp.obj	7958f0c8078ad0c5
+230	373	7250472236246818	CMakeFiles/TP.dir/src/Sensores/RadiacaoSensor.cpp.obj	4e501d109bcc76a
+49	271	7250472234736815	CMakeFiles/TP.dir/src/Sensores/TemperaturaSensor.cpp.obj	8f92849648cc8b9b
+243	363	7250472236116814	CMakeFiles/TP.dir/src/Sensores/Sensor.cpp.obj	eaad4174db71994f
+43	243	7250472234736815	CMakeFiles/TP.dir/src/Sensores/SomSensor.cpp.obj	f77333a6fd92eb05
+21	731	7245458927946515	CMakeFiles/TP.dir/src/Propriedades/Propriedade.cpp.obj	84090271f3ce74c
+7	794	7245458928576495	CMakeFiles/TP.dir/lib/Terminal.cpp.obj	3d60d4c3cd677ae4
+4	790	7250472240456820	CMakeFiles/TP.dir/src/main.cpp.obj	97ab36284d6c16ab
+17	911	7245458929756724	CMakeFiles/TP.dir/src/Habitacoes/Habitacao.cpp.obj	785562b0195905c5
+250	1257	7250472245126785	CMakeFiles/TP.dir/src/Interface/Interface.cpp.obj	1729ef2b8508ad8b
+1	154	7250480034861331	build.ninja	e65cdb9a3e6ca617
+256	899	7250472241546785	CMakeFiles/TP.dir/src/Terreno/Terreno.cpp.obj	28076bc6a7ae80d1
+7	579	7250472910815126	CMakeFiles/TP.dir/src/Habitacao/Habitacao.cpp.obj	452812eab70ad8b9
